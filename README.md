@@ -1,4 +1,4 @@
-<h1> Surgery Simulator </h1>
+<h0> Surgery Simulator </h0>
 <h2> Images </h2>
 <img Src="https://github.com/ahossain777/PyGame-Surgery-Simulator/blob/master/Capture.PNG">
 <img Src="https://github.com/ahossain777/PyGame-Surgery-Simulator/blob/master/Capture2.PNG">
